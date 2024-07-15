@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+    form{
+        align-items: center;
+        text-align: center;
+        background-color: aliceblue;
+        /* display: inline-block; */
+        padding: 20px  ;
+        border-radius: 20px;
+        box-shadow: 0 10px 10px 0 rgb(59, 47, 47);  
+
+    }
+    
+    .submit{
+        background-color: aqua;
+        color: red;
+        text-align: center;
+        align-items: center;
+        border-radius: 10px;
+        margin-top: 20px;
+        padding: 5px 30px;
+        border: none;
+        margin: 50px;
+    }
+    h2, .box{
+        font-family: Playwrite IT Moderna;
+
+        /* font-family: 'georgia', Times, serif; */
+        /* font-family: 'Courier New', Courier, monospace; */
+        /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+        /* font-style: italic; */
+    }
+    .box{
+        border: 0;
+        border-bottom: 2px solid;
+        align-items: center;
+        
+        
+    }
+    .totalbox{
+        padding: 50px;
+        text-align: center;
+        width: 300px;
+    }
+    h2{
+        text-decoration: underline;
+        text-shadow:  1px 7px 7px red ;
+    }
